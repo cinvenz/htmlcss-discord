@@ -15,7 +15,15 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-} 
+}
+
+.font-discord {
+    font-family: 'Filetto', sans-serif;
+}
+
+.fa-down-long {
+    padding-right: 5px;
+}
 
 a {
     text-decoration: none;
@@ -96,6 +104,3 @@ h1 {
     color: white;
 }
 
-.fa-down-long {
-    padding-right: 5px;
-}
