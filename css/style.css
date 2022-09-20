@@ -131,7 +131,7 @@ h1 {
 
 .h2-title {
     font-size: 2.8em;
-    margin-top: 3rem;
+    
     margin-bottom: 1.5rem;
 }
 
@@ -141,7 +141,7 @@ h1 {
 
 .container2 {
     display: flex;
-    margin-top: 4rem;
+    /* margin-top: 4rem; */
     background-color: rgba(245,245,245,255);
     flex-direction: row-reverse;
 }
@@ -165,7 +165,6 @@ h1 {
 
 .img-item2 {
     max-width: 600px;
-    
 }
 
 .h2-title2 {
@@ -190,6 +189,7 @@ h1 {
     text-align: center;
     background-color: rgba(245,245,245,255);
     height: 150vh;
+    padding-top: 4rem;
 }
 
 
@@ -317,4 +317,13 @@ h1 {
     padding: 13px 15px;
     border-radius: 23px;
     color: white;
+}
+
+.wave {
+    margin-top: 5rem;
+    vertical-align: bottom;
+}
+
+.wave2 {
+    transform: scaley(-1);
 }
