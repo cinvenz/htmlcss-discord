@@ -4,11 +4,15 @@
     box-sizing: border-box;
 }
 
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
 nav {
     background-color: rgba(37,94,233,255);
     color: white;
     height: 70px;
-    font-size: 18px;
+    font-size: 1em;
 }
 
 .flex-nav {
@@ -65,7 +69,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 18px;
+    font-size: 1em;
 }
 
 h1 {
@@ -76,7 +80,7 @@ h1 {
 
 .header-container p {
     padding-bottom: 5px;
-    font-size: 1.3rem;
+    font-size: 1.1em;
 }
 
 .contenitore-link-mac {
@@ -84,7 +88,7 @@ h1 {
     background-color: white;
     padding: 13px 15px;
     border-radius: 23px;
-    margin-right: 18px;
+    margin-right: 15px;
     margin-top: 10px;
     
 }
@@ -104,3 +108,33 @@ h1 {
     color: white;
 }
 
+.container1 {
+    display: flex;
+    margin-top: 4rem;
+}
+
+.img-container1 {
+     width: 60%; 
+    
+}
+
+
+.testo-container1{
+    width: 40%; 
+}
+
+.img-item1 {
+    max-width: 500px;
+    margin-left: 16rem;
+    margin-bottom: 1.5rem;
+}
+
+.h2-title {
+    font-size: 2em;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.p-container {
+    line-height: 1.5em;
+}
