@@ -320,6 +320,7 @@ h1 {
     margin: auto;
     border-top: 1px solid rgba(114,137,218,255);
     padding-top: 1.5rem;
+    align-items: center;
     
 }
 
