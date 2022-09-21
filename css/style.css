@@ -202,7 +202,7 @@ h1 {
 .h3-stars {
     font-size: 1.6em;
     margin-bottom: 3rem;
-    
+    padding-top: 1rem;
 }
 
 .link-mac-purple {
@@ -285,6 +285,11 @@ h1 {
 
 .list-color {
     color: white;
+}
+
+.container-stars {
+    background-image: url(../img/stars.svg);
+    background-position: center;
 }
 
 .footer-flex li {
