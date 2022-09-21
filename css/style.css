@@ -192,6 +192,12 @@ h1 {
     padding-top: 4rem;
 }
 
+.container-stars {
+    background-image: url(../img/stars.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 
 .img-stars {
     width: 30rem;
@@ -202,7 +208,7 @@ h1 {
 .h3-stars {
     font-size: 1.6em;
     margin-bottom: 3rem;
-    padding-top: 1rem;
+    padding-top: 2.5rem;
 }
 
 .link-mac-purple {
